@@ -1,3 +1,5 @@
+# Predicting-Athlete-Performance
+
 An athlete performance can be determined by many factors such as height, age, and weight. Hence, we analyse which of these factors affect the performance of the athlete the most. Here we use statistical methods like correlation, regression and hypothesis testing. This project helps us to predict the chance of winning in the Olympic games and also helps to choose the most appropriate one among all the athletes by a country for the Olympic games.
 
 METHODOLOGY
