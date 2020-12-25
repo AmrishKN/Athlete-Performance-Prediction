@@ -5,9 +5,9 @@ METHODOLOGY
 We use R language and MS Excel for this project. First using MS Excel, we filtered our dataset which contained unwanted data’s like name, nationality, year. In R, we have stored the data of each sport in an index of a list. Then we get input from the user to select the sports we want to know about. After the sports is selected by the user, the p value is checked for the variables. Further analysis can be done only if the p-value is lesser than 0.5. This ensures that there is a strong relationship between the variables and further analysis carried out will be correct. Next we plot correlation matrix and scatter plot to know the relation between medals and age, height and weight. Then finally we find the regression equation so the end user can simply give in age, height and weight inputs and can select the highest value for medal.
 
 TECHNIQUES USED IN STATISTICS:
-Correlation
-Regression
-P-value
+ 1.Correlation
+ 2. Regression
+ 3.P-value
 
 FUNCTIONS USED IN R:
 pairs.panel()
